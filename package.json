@@ -1,0 +1,15 @@
+{
+  "name": "foxes90-twiiter",
+  "version": "1.0.0",
+  "description": "A Twitter Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Viloria",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
