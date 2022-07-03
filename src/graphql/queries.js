@@ -10,6 +10,8 @@ const users = {
     }
 }
 
+
+
 const posts = {
     type: new GraphQLList(UserType),
     description: 'Query all posts in the database',
